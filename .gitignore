@@ -1,0 +1,31 @@
+# Visual Studio workspace and user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+*.VC.db
+*.VC.opendb
+
+# C++ build output
+Debug/
+Release/
+x64/
+Win32/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.tlog
+*.lastbuildstate
+*.exe
+
+# Installed SFML SDK and its runtime DLLs
+.sfml/
+sfml-*.dll
+openal32.dll
+
+# Saved scores created when playing
+score.txt
